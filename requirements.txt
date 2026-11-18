@@ -1,0 +1,3 @@
+# SecAudit dependencies
+# rich is optional but recommended for colorful terminal output
+rich>=10.0.0
